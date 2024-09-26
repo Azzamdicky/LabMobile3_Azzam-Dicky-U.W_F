@@ -85,11 +85,17 @@ Shift Baru: F
         textAlign: TextAlign.center,
     )
 ```
+#### Cara menjalankan program
+1. `flutter pub get`
+2. `flutter run`
 
 ## Screenshot
-Contoh :
+1. Gambar login
 ![Lampiran login](login.png)
+2. Gambar homepage
 ![Lampiran homepage](homepage.png)
+3. Gambar sidemenu
 ![Lampiran sidemenu](sidemenu.png)
-![Lampiran homepage](homepage.png)
+4. Gambar about
+![Lampiran about](about.png)
 
