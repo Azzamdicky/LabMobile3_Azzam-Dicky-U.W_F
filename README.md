@@ -90,12 +90,12 @@ Shift Baru: F
 2. `flutter run`
 
 ## Screenshot
-1. Gambar login
-![Lampiran login](login.png)
-2. Gambar homepage
-![Lampiran homepage](homepage.png)
-3. Gambar sidemenu
-![Lampiran sidemenu](sidemenu.png)
-4. Gambar about
-![Lampiran about](about.png)
+1. Gambar login <br>
+![Lampiran login](login.png)<br>
+2. Gambar homepage <br>
+![Lampiran homepage](homepage.png)<br>
+3. Gambar sidemenu<br>
+![Lampiran sidemenu](sidemenu.png)<br>
+4. Gambar about <br>
+![Lampiran about](about.png)<br>
 
